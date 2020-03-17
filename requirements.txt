@@ -1,0 +1,12 @@
+依赖的环境
+asgiref==3.2.5
+Django==3.0.4
+django-ranged-response==0.2.0
+django-simple-captcha==0.5.12
+Pillow==7.0.0
+pytz==2019.3
+six==1.14.0
+sqlparse==0.3.1
+
+要运行该项目的代码，要安装依赖的第三方库，只需要：
+pip install -r requirements.txt
